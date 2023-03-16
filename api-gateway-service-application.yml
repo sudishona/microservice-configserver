@@ -1,6 +1,6 @@
 spring:
   application:
-    name: API-default
+    name: API-dev
 eureka:
   instance:
     prefer-ip-address: true
